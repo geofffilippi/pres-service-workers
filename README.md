@@ -20,9 +20,9 @@ Service Workers are a new feature in the web browser. Service Workers enable off
 
 In this talk, Geoff Filippi, will cover the current and upcoming options for offline applications. We will review the options for developing cross-platform offline web applications. We will compare the capabilities of mobile web browsers and native applications.
 
-[Markdown]('blob/master/service-workers.md')
+[Markdown](service-workers.md)
 
-[PDF]('service-workers.pdf')
+[PDF](service-workers.pdf)
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
